@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337496200056",
+    "project_id": "fir-kullanim-ab775",
+    "storage_bucket": "fir-kullanim-ab775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337496200056:android:f3e59ea54bbcff336c6e8d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDCHii0RPZhFiwSFmuarPhQup9RGuiKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
