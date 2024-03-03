@@ -5,6 +5,8 @@ This Markdown file outlines the design of email and phone verification screens u
 ## İmage:
 ![Ekran görüntüsü 2024-03-03 030230](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/bcfc7696-8ea0-4614-b380-7ce1b54fee0f)![Ekran görüntüsü 2024-03-03 030328](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/6efaac61-f3c0-4f95-ad2d-1fdcb13a434f)
 ![Ekran görüntüsü 2024-03-03 030300](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/6674c948-9961-4a55-a7f8-5fd3f42c34b0)
+![Ekran görüntüsü 2024-03-03 030550](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/363458f3-ce18-428c-9d3d-ac9ea0ff5295)
+![u](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/08d925b1-5781-405b-bc04-b13f8f62fffa)
 
 
 
