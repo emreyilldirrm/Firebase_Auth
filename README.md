@@ -1,16 +1,18 @@
-# firebase_login
+# Firebase Authentication with Email and Phone Verification Screen Design
 
-A new Flutter project.
+This Markdown file outlines the design of email and phone verification screens using the Firebase Auth package in Flutter.
 
-## Getting Started
+## İmage:
+![Ekran görüntüsü 2024-03-03 030230](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/bcfc7696-8ea0-4614-b380-7ce1b54fee0f)![Ekran görüntüsü 2024-03-03 030328](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/6efaac61-f3c0-4f95-ad2d-1fdcb13a434f)
+![Ekran görüntüsü 2024-03-03 030300](https://github.com/emreyilldirrm/Firebase_Auth/assets/149498114/6674c948-9961-4a55-a7f8-5fd3f42c34b0)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
+### 2. F2. Add the Firebase Auth Package:
+Add the Firebase Auth package to the pubspec.yaml file.
+   dependencies:
+     flutter:
+       sdk: flutter
+     firebase_core: ^1.3.0
+     firebase_auth: ^3.1.3
